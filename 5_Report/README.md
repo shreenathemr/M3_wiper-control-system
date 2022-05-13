@@ -58,4 +58,8 @@ In  the  present  automobiles  the  number  of  facilities  is much  higher.  Th
 |LR_02 | Button pressed for once - ON LED RED                             | Implemented |
 |LR_03 | Button Pressed for two times - OFF LED RED                              | Implemented|
 |LR_04 | Turn off LED for long press                  | Implemented |
+## Flow Chart
+![Flow Chart](https://user-images.githubusercontent.com/101713731/168328767-a0ed7192-0b30-4c81-8a6d-4f6e7ea61a04.png)
+## Block Diagram
+![Block Diagram](https://user-images.githubusercontent.com/101713731/168328876-c4a4a682-eaba-4df5-afc4-c0e58c0a1011.jpg)
 

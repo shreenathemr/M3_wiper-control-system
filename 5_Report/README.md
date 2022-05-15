@@ -61,5 +61,6 @@ In  the  present  automobiles  the  number  of  facilities  is much  higher.  Th
 ## Flow Chart
 ![Flow Chart](https://user-images.githubusercontent.com/101713731/168328767-a0ed7192-0b30-4c81-8a6d-4f6e7ea61a04.png)
 ## Block Diagram
-![Block Diagram](https://user-images.githubusercontent.com/101713731/168328876-c4a4a682-eaba-4df5-afc4-c0e58c0a1011.jpg)
+![Block Diagram](https://user-images.githubusercontent.com/101713731/168470193-ca8bed33-9ce7-48d8-833b-790c3b2a8fd7.png)
+
 

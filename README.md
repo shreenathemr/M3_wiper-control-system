@@ -6,3 +6,4 @@ Over the past few years the automotive industry has aggressively researched ways
 ## Codacy
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/32b34a36099f4052ac30163e2560697f)](https://www.codacy.com/gh/shreenathemr/M3_wiper-control-system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=shreenathemr/M3_wiper-control-system&amp;utm_campaign=Badge_Grade)
 cpp check analyse [![Cppcheck Analyse](https://github.com/shreenathemr/M3_wiper-control-system/actions/workflows/cpp%20check_Analyse.yml/badge.svg)](https://github.com/shreenathemr/M3_wiper-control-system/actions/workflows/cpp%20check_Analyse.yml)
+Build on Linux [![Build-Linux](https://github.com/shreenathemr/M3_wiper-control-system/actions/workflows/Build%20on%20Linux.yml/badge.svg)](https://github.com/shreenathemr/M3_wiper-control-system/actions/workflows/Build%20on%20Linux.yml)
